@@ -1,2 +1,1 @@
-# JenkinsInstallScript
-Initialization script to install jenkins.
+# Script To Install Jenkins and its dependencies.
